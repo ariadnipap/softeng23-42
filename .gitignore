@@ -1,0 +1,14 @@
+.env
+.azure/
+.DS_Store
+back-end/db/data/data_processing.ipynb
+__pycache__/
+*.pyc
+myenv
+back-end/db/backups/
+data/
+docker/
+# ignore entries for SSL/TLS certificates and keys
+*.key
+*.crt
+*.pem
